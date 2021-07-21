@@ -1,0 +1,7 @@
+Klipper config settings
+rotation_distance: 34.37086
+gear_ratio: 7.5:1
+microsteps: 16
+full_steps_per_rotation: 200
+run_current: 0.250
+hold_current: 0.200
